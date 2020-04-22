@@ -64,10 +64,12 @@ Plugin 'tomtom/tcomment_vim'
 Plugin 'Shougo/deoplete.nvim'
 Plugin 'roxma/nvim-yarp'
 Plugin 'roxma/vim-hug-neovim-rpc'
+Plugin 'mattn/emmet-vim'
 
 " Syntax
 Plugin 'rust-lang/rust.vim'
 Plugin 'plasticboy/vim-markdown'
+
 " Themes
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
